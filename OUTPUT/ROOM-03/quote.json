@@ -1,0 +1,14 @@
+{
+  "blocking_reasons": [
+    "Room ROOM-03 is unsatisfiable: 2 rule violation(s) remained after 5 repair pass(es) (cap 188) and 14 item drop(s). See layout.json violations for detail."
+  ],
+  "currency": "INR",
+  "lines": [],
+  "quote_id": "QUOTE-ROOM-03",
+  "room_id": "ROOM-03",
+  "status": "blocked",
+  "summary": {
+    "grand_total_inr": 0
+  },
+  "summary_trace": []
+}
