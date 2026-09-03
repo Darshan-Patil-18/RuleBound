@@ -8,8 +8,15 @@ See `ARCHITECTURE.md` for the design, and its **Arbitration** section for
 how the repair loop works and provably terminates.
 
 ## Demo video
+Note: the repair loop re-validates the full layout on every candidate
+move, so this runs slower live on camera than actual compute time —
+shown unedited so you can see it's really running.This is why the
+recording runs close to 10 minutes rather than 5
 
-`<PASTE YOUR DEMO VIDEO LINK HERE BEFORE SUBMITTING>`
+
+https://www.youtube.com/watch?v=Of64Lc93BUg
+
+
 
 ## Run it
 
